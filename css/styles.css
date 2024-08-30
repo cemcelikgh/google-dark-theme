@@ -1,19 +1,19 @@
 html,
 body {
-  min-width: 400px;
   height: 100%;
   margin: 0;
   padding: 0;
 }
 
 body {
-  background: #202124;
+  min-width: 450px;
+  background-color: #202124;
 }
 
 body,
 input {
   font-size: 14px;
-  font-family: arial, sans-serif;
+  font-family: Arial, sans-serif;
   color: #BDC1C6;
 }
 
@@ -123,7 +123,8 @@ a:hover {
 .box-3-1 {
   box-sizing: border-box;
   height: 48px;
-  width: 615px;
+  width: 100%;
+  max-width: 584px;
   border-radius: 24px;
   padding: 0  14px;
   background: #202124;
@@ -216,6 +217,7 @@ a:hover {
 .box-5-2 {
   display: flex;
   justify-content: space-between;
+  flex-wrap: wrap;
   padding: 0 20px;
 }
 
@@ -228,7 +230,6 @@ a:hover {
 
 .box-5-2-1 {
   order: 1;
-  min-width: 30%;
   display: flex;
   justify-content: flex-start;
 }
@@ -246,7 +247,6 @@ a:hover {
 
 .box-5-2-3 {
   order: 3;
-  min-width: 30%;
   display: flex;
   justify-content: flex-end;
 }

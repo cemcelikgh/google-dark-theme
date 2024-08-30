@@ -1,6 +1,7 @@
-# google-dark-theme-frontview-kodluyoruz-patika
-Patika.dev CSS Ödev 3
+# google-dark-theme
+Patika Beginner Frontend Web Development Path Certification Task
+<br>Google Dark Theme
 
-https://www.patika.dev https://kodluyoruz.org
+Browse: <https://cemcelikgh.github.io/google-dark-theme/>
 
-![google-dark-theme-frontview-kodluyoruz-patika](https://images2.imgbox.com/7a/fc/B8sMruLf_o.jpg)
+[![Google Dark Theme Preview](./assets/google-dark-theme-preview.jpg "Browse Google Dark Theme")](https://cemcelikgh.github.io/google-dark-theme/)
